@@ -4,3 +4,5 @@ Mi nombre es David Alexander Cerón Restrepo, tengo 24 años y vivo en Medellín
 Seré un gran desarrollador
 
 Me encanta el código pero Git se me está dificultando jaja.
+
+Vamos por la novena clase del curso de platzi
