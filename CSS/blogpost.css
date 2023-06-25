@@ -9,16 +9,18 @@ body{
 }
 
 #cabecera{
-    background: url(../Images/code.png) no-repeat center center;
+    background: #37488b;
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em 0 0.5em 2em;
-    box-shadow: 1px 1px 16px 5px rgba(148,148,148,1);
+    box-shadow: 1px 1px 5px rgba(148,148,148,1);
 }
 
 #cabecera #logo{
     width: 20px;
+    position: absolute;
+    left: 100px;
 
 }
 
@@ -41,5 +43,6 @@ body{
 }
 
 #post{
+    background: white;
     padding: 1em;
 }
