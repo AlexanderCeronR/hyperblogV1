@@ -12,5 +12,8 @@ He aprendido hasta el momento lo siguiente:
 * Flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos brindados por el profesor
+* Creado por Alexander Cerón
+* Incluye mucha dedicación a este tema de la programación
+* Imaginate leer esto en 10 años ¿Será igual de emocionante que ahora?
 
 Este readme es un ejemplo de lo que podemos escribir dentro de nuestros repositorios subidos a **Github**
